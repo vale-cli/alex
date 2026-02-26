@@ -1,0 +1,45 @@
+---
+extends: substitution
+message: Consider using '%s' instead of '%s'.
+ignorecase: true
+level: warning
+action:
+  name: replace
+swap:
+  # Violent animal idioms
+  kill two birds with one stone: accomplish two things at once|solve two problems at once
+  beat a dead horse: belabor the point|go over old ground
+  beating a dead horse: belabor the point|go over old ground
+  bring home the bacon: bring home the results|earn a living
+  guinea pig: test subject|beta tester|first to try
+  more than one way to skin a cat: more than one way to solve this|many ways to approach this
+  let the cat out of the bag: reveal the secret|disclose the information
+  open a can of worms: create a complicated situation|raise a difficult issue
+  wild goose chase: futile search|pointless pursuit|fool's errand
+  flog a dead horse: belabor the point|waste effort on a lost cause
+  flogging a dead horse: belabor the point|waste effort on a lost cause
+  take the bull by the horns: face the challenge head-on|tackle the problem directly
+  like shooting fish in a barrel: extremely easy|effortless
+  sacred cow: untouchable topic|unquestioned assumption|protected idea
+  sacred cows: untouchable topics|unquestioned assumptions|protected ideas
+  scapegoat: fall guy|wrongly blamed
+  scapegoated: wrongly blamed
+  scapegoating: wrongly blaming
+  straight from the horse's mouth: directly from the source|from a reliable source
+  from the horse's mouth: directly from the source|from a reliable source
+  whack-a-mole: recurring problem|unwinnable game
+  whack a mole: recurring problem|unwinnable game
+  # Technical terms referencing animals
+  cattle vs pets: ephemeral vs persistent|fungible vs unique
+  cattle versus pets: ephemeral vs persistent|fungible vs unique
+  cattle not pets: ephemeral vs persistent|fungible vs unique
+  canary deployment: progressive rollout|incremental deployment|staged release
+  canary release: progressive rollout|incremental deployment|staged release
+  stack canary: sentinel value|guard value|stack sentinel
+  canary value: sentinel value|guard value|stack sentinel
+  monkey patch: runtime patch|dynamic patch|hot patch
+  monkey patching: runtime patch|dynamic patch|hot patch
+  duck typing: structural typing|implicit typing
+  dogfooding: self-hosting|self-testing|using your own product
+  eating your own dogfood: self-testing|using your own product
+  eat your own dogfood: self-test|use your own product
