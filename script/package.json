@@ -1,0 +1,14 @@
+{
+  "name": "alex-vale-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs && node fixture.mjs",
+    "compare": "node compare.mjs ../fixtures/edges.md ../fixtures/phrases.md"
+  },
+  "dependencies": {
+    "alex": "11.0.1",
+    "js-yaml": "4.1.0",
+    "pluralize": "8.0.0"
+  }
+}

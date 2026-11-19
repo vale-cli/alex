@@ -1,0 +1,54 @@
+../edges.md:7:1:alex.Gendered:'He' may be insensitive, use 'They' or 'It' instead.
+../edges.md:7:7:alex.Ablist:'able-bodied' may be insensitive, use 'non-disabled' instead.
+../edges.md:7:27:alex.Gendered:'man-made' may be insensitive, use 'manufactured', 'artificial', 'synthetic', 'machine-made', or 'constructed' instead.
+../edges.md:7:45:alex.Gendered:'man's best friend' may be insensitive, use 'a faithful dog' instead.
+../edges.md:7:68:alex.Race:'master's' may be insensitive, use 'primaries', 'hubs', or 'references' instead.
+../edges.md:8:16:alex.Race:'masters' may be insensitive, use 'primaries', 'hubs', or 'references' instead.
+../edges.md:13:1:alex.Gendered:'He' may be insensitive, use 'They' or 'It' instead.
+../edges.md:13:24:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:14:53:alex.Ablist:'crazy-' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:19:31:alex.Gendered:'master plan' may be insensitive, use 'grand scheme' or 'guiding principles' instead.
+../edges.md:19:31:alex.Race:'master' may be insensitive, use 'primary', 'lead', 'hub', or 'reference' instead.
+../edges.md:20:14:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:24:37:alex.Gendered:'He' may be insensitive, use 'They' or 'It' instead.
+../edges.md:24:41:alex.Gendered:'she' may be insensitive, use 'they' or 'it' instead.
+../edges.md:24:53:alex.ProfanityUnlikely:Be careful with 'girl', it's profane in some cases.
+../edges.md:24:68:alex.ProfanityUnlikely:Be careful with 'girls', it's profane in some cases.
+../edges.md:25:58:alex.Gendered:'Firemen' may be insensitive, use 'Fire fighters' instead.
+../edges.md:25:67:alex.Gendered:'firewomen' may be insensitive, use 'fire fighters' instead.
+../edges.md:27:15:alex.GenderedPerson:'him' may be insensitive, when referring to a person, use 'their', 'theirs', or 'them' instead.
+../edges.md:29:14:alex.Gendered:'she' may be insensitive, use 'they' or 'it' instead.
+../edges.md:31:12:alex.ProfanityUnlikely:Be careful with 'girl', it's profane in some cases.
+../edges.md:31:20:alex.GenderedPerson:'boy' may be insensitive, when referring to a person, use 'kid', 'child', or 'youth' instead.
+../edges.md:33:4:alex.ProfanityUnlikely:Be careful with 'Periods', it's profane in some cases.
+../edges.md:35:9:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:36:9:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:36:35:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:36:61:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:38:5:alex.Gendered:'Mrs.' may be insensitive, use 'Ms.' instead.
+../edges.md:38:25:alex.Gendered:'Miss.' may be insensitive, use 'Ms.' instead.
+../edges.md:39:35:alex.Ablist:'O.C.D.' may be insensitive, use 'Has an anxiety disorder', 'Obsessive', 'Pedantic', 'Niggly', or 'Picky' instead.
+../edges.md:41:31:alex.Gendered:'host' may be insensitive, use 'presenter', 'entertainer', or 'emcee' instead.
+../edges.md:41:55:alex.ProfanityMaybe:Reconsider using 'black', it may be profane.
+../edges.md:46:1:alex.Race:'Whitelist' may be insensitive, use 'Passlist', 'Alrightlist', 'Safelist', or 'Allow list' instead.
+../edges.md:46:15:alex.Race:'white-list' may be insensitive, use 'passlist', 'alrightlist', 'safelist', or 'allow list' instead.
+../edges.md:46:37:alex.ProfanityMaybe:Reconsider using 'black', it may be profane.
+../edges.md:47:2:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:47:34:alex.Ablist:'Crazy' may be insensitive, use 'Rude', 'Malicious', 'Mean', 'Disgusting', 'Incredible', 'Vile', 'Person with symptoms of mental illness', 'Person with mental illness', 'Person with symptoms of a mental disorder', or 'Person with a mental disorder' instead.
+../edges.md:51:15:alex.ProfanityLikely:Don't use 'gyp', it's profane.
+../edges.md:51:15:alex.Race:'gyp' may be insensitive, use 'Nomad', 'Traveler', 'Roma', or 'Romani' instead.
+../edges.md:52:3:alex.Slogans:'Make America great again' may be insensitive, use 'Improve' instead.
+../edges.md:54:12:alex.Ablist:'dumb' may be insensitive, use 'foolish', 'ludicrous', 'speechless', or 'silent' instead.
+../edges.md:54:12:alex.ProfanityLikely:Don't use 'dumb', it's profane.
+../edges.md:60:1:alex.Ablist:'crazy-' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:60:15:alex.Ablist:'crazy' may be insensitive, use 'rude', 'malicious', 'mean', 'disgusting', 'incredible', 'vile', 'person with symptoms of mental illness', 'person with mental illness', 'person with symptoms of a mental disorder', or 'person with a mental disorder' instead.
+../edges.md:62:1:alex.ProfanityUnlikely:Be careful with 'Hell', it's profane in some cases.
+../edges.md:62:6:alex.Gendered:'he'll' may be insensitive, use 'they' or 'it' instead.
+../edges.md:62:19:alex.ProfanityLikely:Don't use 'whore', it's profane.
+../edges.md:62:26:alex.ProfanityUnlikely:Be careful with 'Pros', it's profane in some cases.
+../edges.md:62:35:alex.ProfanityUnlikely:Be careful with 'dies', it's profane in some cases.
+../edges.md:62:41:alex.ProfanityUnlikely:Be careful with 'Butts', it's profane in some cases.
+../edges.md:62:47:alex.ProfanityUnlikely:Be careful with 'butt', it's profane in some cases.
+../edges.md:62:53:alex.Condescending:'Just' may be insensitive, try not to use it.
+../edges.md:62:58:alex.Condescending:'simply' may be insensitive, try not to use it.
+../edges.md:62:65:alex.Condescending:'obviously' may be insensitive, try not to use it.
