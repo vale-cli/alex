@@ -2,7 +2,7 @@
 
 > [`alex`](https://github.com/get-alex/alex): Catch insensitive, inconsiderate writing.
 
-This repository contains a [Vale-compatible](https://github.com/errata-ai/vale) implementation of the guidelines enforced by the `alex` ([LICENSE](https://github.com/get-alex/alex/blob/main/license)) linter.
+This repository contains a [Vale-compatible](https://github.com/vale-cli/vale) implementation of the guidelines enforced by the `alex` ([LICENSE](https://github.com/get-alex/alex/blob/main/license)) linter.
 
 ## Getting Started
 
